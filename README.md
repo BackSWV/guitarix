@@ -1,2 +1,28 @@
-# AdminPanel
-AdminPanel Mobile App Asynchronous Service-Daemon ServerSQL 
+# คำสั่งติดตั้ง
+[AdminPanel Mobile App Asynchronous Service-Daemon ServerSQL ](http://guitarix.org/)
+
+
+sudo apt install -y \
+  gperf \
+  intltool \
+  libavahi-gobject-dev \
+  libbluetooth-dev \
+  libboost-dev \
+  libboost-iostreams-dev \
+  libboost-system-dev \
+  libboost-thread-dev \
+  libeigen3-dev \
+  libgtk-3-dev \
+  libgtkmm-3.0-dev \
+  libjack-jackd2-dev \
+  liblilv-dev \
+  liblrdf0-dev \
+  libsndfile1-dev \
+  libfftw3-dev \
+  lv2-dev \
+  python3 \
+  sassc
+
+
+
+
